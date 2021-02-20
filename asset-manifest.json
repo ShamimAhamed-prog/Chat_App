@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ShamimAhamed-prog/Chat_App.git/static/css/main.a2e944e4.chunk.css",
+    "main.js": "/ShamimAhamed-prog/Chat_App.git/static/js/main.03d4325e.chunk.js",
+    "main.js.map": "/ShamimAhamed-prog/Chat_App.git/static/js/main.03d4325e.chunk.js.map",
+    "runtime-main.js": "/ShamimAhamed-prog/Chat_App.git/static/js/runtime-main.542fe1d2.js",
+    "runtime-main.js.map": "/ShamimAhamed-prog/Chat_App.git/static/js/runtime-main.542fe1d2.js.map",
+    "static/js/2.d41f08bc.chunk.js": "/ShamimAhamed-prog/Chat_App.git/static/js/2.d41f08bc.chunk.js",
+    "static/js/2.d41f08bc.chunk.js.map": "/ShamimAhamed-prog/Chat_App.git/static/js/2.d41f08bc.chunk.js.map",
+    "index.html": "/ShamimAhamed-prog/Chat_App.git/index.html",
+    "static/css/main.a2e944e4.chunk.css.map": "/ShamimAhamed-prog/Chat_App.git/static/css/main.a2e944e4.chunk.css.map",
+    "static/js/2.d41f08bc.chunk.js.LICENSE.txt": "/ShamimAhamed-prog/Chat_App.git/static/js/2.d41f08bc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.542fe1d2.js",
+    "static/js/2.d41f08bc.chunk.js",
+    "static/css/main.a2e944e4.chunk.css",
+    "static/js/main.03d4325e.chunk.js"
+  ]
+}
